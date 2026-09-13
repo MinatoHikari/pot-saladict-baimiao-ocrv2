@@ -1,0 +1,53 @@
+{
+    "id": "plugin.com.saladict.baimiao-ocr",
+    "plugin_type": "recognize",
+    "icon": "icon.png",
+    "display": "白描 OCR (修复版)",
+    "homepage": "https://github.com/MinatoHikari/pot-saladict-baimiao-ocrv2",
+    "needs": [
+        {
+            "key": "username",
+            "display": "白描手机号/邮箱 (选填，不填走匿名模式)",
+            "type": "input"
+        },
+        {
+            "key": "password",
+            "display": "白描密码 (选填)",
+            "type": "input"
+        }
+    ],
+    "language": {
+        "auto": "Auto",
+        "zh_cn": "Simplified Chinese",
+        "zh_tw": "Traditional Chinese",
+        "yue": "Cantonese",
+        "ja": "Japanese",
+        "en": "English",
+        "ko": "Korean",
+        "fr": "French",
+        "es": "Spanish",
+        "ru": "Russian",
+        "de": "German",
+        "it": "Italian",
+        "tr": "Turkish",
+        "pt_pt": "Portuguese",
+        "pt_br": "Brazilian Portuguese",
+        "vi": "Vietnamese",
+        "id": "Indonesian",
+        "th": "Thai",
+        "ms": "Malay",
+        "ar": "Arabic",
+        "hi": "Hindi",
+        "mn_mo": "Mongolian",
+        "mn_cy": "Mongolian (Cyrillic)",
+        "km": "Khmer",
+        "nb_no": "Norwegian Bokmål",
+        "nn_no": "Norwegian Nynorsk",
+        "fa": "Persian",
+        "sv": "Swedish",
+        "pl": "Polish",
+        "nl": "Dutch",
+        "uk": "Ukrainian",
+        "he": "Hebrew"
+    }
+}
